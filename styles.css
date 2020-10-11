@@ -35,7 +35,7 @@ h3{
 .menu{
 	position: fixed;
 	top:0;
-width: 100%;
+               width: 100%;
 }
 ul{
 	width:100%;
@@ -215,8 +215,8 @@ background-color:#fff;
 	border-radius: 20%;
 	background:linear-gradient(to bottom right,#2196F3,#009688);
 			
-		}
-		.form2{
+	}
+	.form2{
 	width:65%;
 	padding:30px 5px 30px 5px;	
 	float:left;
@@ -259,7 +259,7 @@ background-color:#fff;
 .l{
 	
 	color:blue;
-		background: lightblue;
+	background: lightblue;
 	
 }
 
@@ -281,14 +281,15 @@ background-color:#fff;
 .msg{
 	width:100%;
 	height:250px;
-	border-radius: 4%;
+	
 
 	
 }
 .send{
-	background-color:yellow;
-	border:none;
-	outline:none;
+	background:linear-gradient(to bottom right,#2196F3,#009688);
+	border:1px;
+	outline:1px;
+                  border-radius: 1px;
 	padding:10px 30px;
 	outline:1px solid black;
 	margin-top:10px;
